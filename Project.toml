@@ -1,0 +1,4 @@
+name = "FooBase"
+uuid = "95136511-e28d-4842-b27c-6fd32c9a976f"
+authors = ["Daniel Ingraham <d.j.ingraham@gmail.com>"]
+version = "0.1.0"
